@@ -1,0 +1,1211 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://i.imgur.com/qGYobcS.jpg" pltv-name="Pedro Junior Tutoriais" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i.imgur.com/1yuAZPo.jpg" pltv-author="Pedro Júnior Tutoriais" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(51) 98435-1782"
+
+################################################################################# Informações da Lista
+ Religiosos
+
+#EXTINF:-1 tvg-id="TV EVANGELIZAR" tvg-logo="http://i.imgur.com/r22w1v6.png" group-title="Religiosos",TV Evangelizar
+http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="APARECIDA" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NOVO TEMPO" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos",TV Novo Tempo SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NOVO TEMPO" tvg-logo="http://i.imgur.com/IZKxzJ9.png" group-title="Religiosos",TV Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="REDE VIDA" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="http://i.imgur.com/XqZCYLY.png" group-title="Religiosos",TV Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_432_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CANCAO NOVA" tvg-logo="http://i.imgur.com/XqZCYLY.png" group-title="Religiosos",TV Canção Nova HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="BOA VONTADE" tvg-logo="http://i.imgur.com/iD1xVNR.png" group-title="Religiosos",Boa Vontade TV
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV MUNDIAL" tvg-logo="http://i.imgur.com/nt8hDCT.png" group-title="Religiosos",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="Religiosos",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/3sfFiIj.png" group-title="Religiosos",Plenitude TV
+https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Religiosos",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/RNtmXsk.png" group-title="Religiosos",Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aiNRaga.png" group-title="Religiosos",IURD TV
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xX2IFya.jpg" group-title="Religiosos",TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zW83GGD.png" group-title="Religiosos",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################# TV Aberta
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/M2N7X4V.png" group-title="TV Aberta",TV Aberta SP
+http://v8.ciclano.io:1935/canalpaulo/canalpaulo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV Aberta",Sesc TV HD
+http://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/uYL8YCF.png" group-title="TV Aberta",UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV Aberta",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta",Agro Brasil
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV Aberta",TV Gazeta MA
+http://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo SP
+http://189.91.128.150:5555/udp/227.10.20.109:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo RJ
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP
+http://189.91.128.150:5555/udp/227.10.20.120:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="TV Aberta",SBT SP Interior
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="TV Aberta",Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura SP
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b581072.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV Aberta",TV Cultura SP HD
+https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura BA
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="TV Aberta",TV Cultura PR HD
+http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PB
+http://stream.tvitarare.com.br/hls/site/site.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record BA 
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record BA HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record DF
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record DF HD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record MG HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record PA
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record PA HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV Aberta",Record GO HD
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="TV Aberta",Rede TV SP
+http://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVE" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="TV Aberta",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TVE" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="TV Aberta",TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hbpsGWw.png" group-title="TV Aberta",TV Escola
+
+#EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV Aberta",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV JUSTICA" tvg-logo="http://i.imgur.com/vY8jL1a.png" group-title="TV Aberta",TV Justiça
+http://www.tvmpf.mpf.mp.br:1935/event1900/event1900.stream_720p/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TV CAMARA" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="TV Aberta",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS
+
+
+################################################################################ Esportes
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes
+http://189.91.128.150:5555/udp/227.10.20.102:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2
+http://189.91.128.150:5555/udp/227.10.20.104:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 3
+http://189.91.128.150:5555/udp/227.10.20.105:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 4
+http://189.91.128.150:5555/udp/227.10.20.106:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 5
+http://189.91.128.150:5555/udp/227.10.20.107:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 6
+
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 7
+
+#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 8
+
+#EXTINF:-1 tvg-id="PREMIERE 9" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 9
+
+#EXTINF:-1 tvg-id="FISH TV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",Fish TV
+http://189.91.128.150:5555/udp/227.10.20.117:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://i.imgur.com/kcxzdPA.png" group-title="Esportes",ESPN HD
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="http://i.imgur.com/Qp5B2ZB.png" group-title="Esportes",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
+http://189.91.128.150:5555/udp/227.10.20.112:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off
+
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
+http://189.91.128.150:5555/udp/227.10.20.119:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="COMBATE" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes",SporTV
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes",SporTV 2
+
+
+
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports
+http://189.91.128.150:5555/udp/227.10.20.116:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",Fox Sports 2
+http://189.91.128.150:5555/udp/227.10.20.132:1234?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/5jMqNpW.png" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################# Infantil
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/sFwOnxG.png" group-title="Infantil",Play Kids
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/sFwOnxG.png" group-title="Infantil",Play Kids HD
+http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="http://i.imgur.com/WCFVJCx.png" group-title="Infantil",Zoomoo
+
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho
+
+#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV
+
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
+
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+
+#EXTINF:-1 tvg-id="TOONCAST" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+
+#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
+
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+
+#EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://189.91.128.150:5555/udp/227.10.20.91:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids
+http://189.91.128.150:5555/udp/227.10.20.83:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################# Filmes e Series
+
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO
+http://189.91.128.150:5555/udp/227.10.20.94:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Séries",HBO 2
+http://189.91.128.150:5555/udp/227.10.20.95:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Séries",HBO Plus
+http://189.91.128.150:5555/udp/227.10.20.96:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Séries",HBO Signature
+http://189.91.128.150:5555/udp/227.10.20.98:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family
+http://189.91.128.150:5555/udp/227.10.20.97:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="MAX" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",Max
+
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime
+http://189.91.128.150:5555/udp/227.10.20.100:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Séries",Max Up
+http://189.91.128.150:5555/udp/227.10.20.99:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax
+http://189.91.128.150:5555/udp/227.10.20.101:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TC ACTION" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Séries",Telecine Action
+http://189.91.128.150:5555/udp/227.10.20.135:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium
+
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch
+http://189.91.128.150:5555/udp/227.10.20.136:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun
+http://189.91.128.150:5555/udp/227.10.20.137:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca
+http://189.91.128.150:5555/udp/227.10.20.87:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://i.imgur.com/CHlPB48.png" group-title="Filmes e Séries",AMC
+
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Séries",Fox
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-logo="http://i.imgur.com/m1ixuy7.png" group-title="Filmes e Séries",Fox Premium 1
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-logo="http://i.imgur.com/RjR5EH8.png" group-title="Filmes e Séries",Fox Premium 2
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Séries",FX
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Séries",Megapix
+http://189.91.128.150:5555/udp/227.10.20.89:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Filmes e Séries",Comedy Central
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
+http://189.91.128.150:5555/udp/227.10.20.124:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Séries",Studio Universal
+http://189.91.128.150:5555/udp/227.10.20.88:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Sony
+http://189.91.128.150:5555/udp/227.10.20.127:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Séries",TNT Séries
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Séries",TNT
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal
+
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner
+http://189.91.128.150:5555/udp/227.10.20.126:1234?PEDROJUNIORTUTORIAIS
+
+################################################################################# Notícias
+
+
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News
+
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://i.imgur.com/f3m6Tcz.png" group-title="Notícias",CNN Brasil
+http://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YGEVYXL.png" group-title="Notícias",Boston 25 News
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/z9SzvD0.png" group-title="Notícias",Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/YWaz2js.png" group-title="Notícias",France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="Notícias",Porto Canal
+http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="Notícias",Bloomberg
+http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EQG9OOD.png" group-title="Notícias",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+################################################################################# Documentários
+
+#EXTINF:-1 tvg-id="CURTA" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Documentários",Curta!
+
+#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Documentários",Lifetime
+
+#EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
+
+#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
+
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="Documentários",Fox Life
+
+#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Documentários",A&E
+http://189.91.128.150:5555/udp/227.10.20.129:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentários",TLC
+http://189.91.128.150:5555/udp/227.10.20.84:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Documentários",E!
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
+http://189.91.128.150:5555/udp/227.10.20.118:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
+
+#EXTINF:-1 tvg-id="NATGEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
+
+#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
+http://189.91.128.150:5555/udp/227.10.20.130:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
+http://189.91.128.150:5555/udp/227.10.20.80:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
+http://189.91.128.150:5555/udp/227.10.20.82:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
+http://189.91.128.150:5555/udp/227.10.20.85:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
+http://189.91.128.150:5555/udp/227.10.20.92:1234?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health
+
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VT4A3hc.png" group-title="Documentários",Discovery Showcase
+
+################################################################################# Canais Variedade
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
+http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S58zj9m.png" group-title="Variedade e Músicas",TV União
+http://stmv1.ifantasy.com.br:1935/tvu/tvu/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="Variedade e Músicas",Top TV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+
+
+#EXTINF:-1 tvg-id="IDEAL TV" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Variedade e Músicas",Ideal TV
+
+#EXTINF:-1 tvg-id="CHEF TV" tvg-logo="http://i.imgur.com/saCbNDR.png" group-title="Variedade e Músicas",Chef TV
+
+#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil
+
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network
+
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT
+
+#EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow
+
+#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat
+
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV
+
+#EXTINF:-1 tvg-id="VH1" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1
+
+#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Mega Hits
+
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Variedade e Músicas",Play TV
+
+#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil
+
+#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedade e Músicas",Prime Box Brazil
+
+################################################################################# Séries Novas/Clássicas
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E01
+https://www.seuanime.com/players/novo/?contentId=8456caa16d815a93
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E02
+https://www.seuanime.com/players/novo/?contentId=430d3373b780bdef
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E03
+https://www.seuanime.com/players/novo/?contentId=7b1102fc3dd528b0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E04
+https://www.seuanime.com/players/novo/?contentId=d1094e35f6cdc063
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E05
+https://www.seuanime.com/players/novo/?contentId=87fc7dd91a4dac52
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E06
+https://www.seuanime.com/players/novo/?contentId=f2ea2f0177a6aa99
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E07
+https://www.seuanime.com/players/novo/?contentId=93bc9f78846463da
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",1T-E08
+https://www.seuanime.com/players/novo/?contentId=ec251c24ffcafc6b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",2T-E02
+https://www.seuanime.com/players/novo/?contentId=89970d6afafb4864
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",2T-E03
+https://www.seuanime.com/players/novo/?contentId=c093ed030a3ef93d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",2T-E04
+https://www.seuanime.com/players/novo/?contentId=263d00a1abc80c61
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",2T-E05
+https://www.seuanime.com/players/novo/?contentId=6e3f21ed1f9e83a4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",2T-E06
+https://www.seuanime.com/players/novo/?contentId=63bdcffd5f9826ef
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",2T-E07
+https://www.seuanime.com/players/novo/?contentId=3d8f3193d02d7744
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",2T-E08
+https://www.seuanime.com/players/novo/?contentId=981e71b2f4244f9b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E01
+https://www.seuanime.com/players/novo/?contentId=819e1544b919bdc2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E02
+https://www.seuanime.com/players/novo/?contentId=e5057de9e3739f85
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E03
+https://www.seuanime.com/players/novo/?contentId=a9137370362721ca
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E04
+https://www.seuanime.com/players/novo/?contentId=d36604013e4ac094
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E05
+https://www.seuanime.com/players/novo/?contentId=56e1294a93cbc19c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E06
+https://www.seuanime.com/players/novo/?contentId=e11bbab06c41498b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E07
+https://www.seuanime.com/players/novo/?contentId=9172cb5c1041b7f2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/a3iHTIH.jpg" group-title="1 Contra Todos",3T-E08
+https://www.seuanime.com/players/novo/?contentId=06b9d31f918672a2
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E01 Capitulo 1
+http://198.255.50.74/Series/3Perc1/3Perc.S01E01.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E02 Capitulo 2
+http://198.255.50.74/Series/3Perc1/3Perc.S01E02.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E03 Capitulo 3
+http://198.255.50.74/Series/3Perc1/3Perc.S01E03.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E04 Capitulo 4
+http://198.255.50.74/Series/3Perc1/3Perc.S01E04.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E05 Capitulo 5
+http://198.255.50.74/Series/3Perc1/3Perc.S01E05.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E06 Capitulo 6
+http://198.255.50.74/Series/3Perc1/3Perc.S01E06.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E07 Capitulo 7
+http://198.255.50.74/Series/3Perc1/3Perc.S01E07.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 1T-E08 Capitulo 8
+http://198.255.50.74/Series/3Perc1/3Perc.S01E08.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E01 Capitulo 11
+http://198.255.50.74/Series/3Perc2/3Perc.S02E01.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E02 Capitulo 12
+http://198.255.50.74/Series/3Perc2/3Perc.S02E02.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E03 Capitulo 13
+http://198.255.50.74/Series/3Perc2/3Perc.S02E03.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E04 Capitulo 14
+http://198.255.50.74/Series/3Perc2/3Perc.S02E04.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E05 Capitulo 15
+http://198.255.50.74/Series/3Perc2/3Perc.S02E05.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E06 Capitulo 16
+http://198.255.50.74/Series/3Perc2/3Perc.S02E06.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E07 Capitulo 17
+http://198.255.50.74/Series/3Perc2/3Perc.S02E07.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E08 Capitulo 18
+http://198.255.50.74/Series/3Perc2/3Perc.S02E08.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E08 Capitulo 19
+http://198.255.50.74/Series/3Perc2/3Perc.S02E09.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PJsa0yW.jpg" group-title="3%", 2T-E08 Capitulo 20
+http://198.255.50.74/Series/3Perc2/3Perc.S02E10.mkv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E01 eps1.0_hellofriend.mov
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E01.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E02 eps1.1_ones-and-zer0es.mpeg
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E02.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E03 eps1.2_d3bug.mkv
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E03.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E04 eps1.3_da3m0ns.mp4
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E04.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E05 eps1.4_3xpl0its.wmv
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E05.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E06 eps1.5_br4ve-trave1er.asf
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E06.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E07 eps1.6_v1ew-s0urce.flv
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E07.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E08 eps1.7_wh1ter0se.m4v
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E08.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E09 eps1.8_m1rr0r1ng.qt
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E09.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 1T-E10 eps1.9_zer0-day.avi
+http://198.255.50.74/Series/Mr.Robot.1/Robot.S01E10.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E01 eps2.0_unm4sk-pt1.tc
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E01.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E02 eps2.0_unm4sk-pt2.tc
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E02.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E03 eps2.1_k3rnel-pan1c.ksd
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E03.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E04 eps2.2_init_1.asec
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E04.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E05 eps2.3_logic-b0mb.hc
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E05.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E06 eps2.4_m4ster-s1ave.aes
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E06.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E07 eps2.5_h4ndshake.sme
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E07.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E08 eps2.6_succ3ss0r.p12
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E08.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E09 eps2.6_succ3ss0r.p12
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E09.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E10 eps2.8_h1dden-pr0cess.axx
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E10.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E11 eps2.9_pyth0n-pt1.p7z
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E11.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FtZoyy5.jpg" group-title="Mr. Robot", 2T-E12 eps2.9_pyth0n-pt2.p7z
+http://198.255.50.74/Series/Mr.Robot.2/Robot.S02E12.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E01
+http://198.255.50.74/Series/Papel1/Papel1.S01E01.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E02
+http://198.255.50.74/Series/Papel1/Papel1.S01E02.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E03
+http://198.255.50.74/Series/Papel1/Papel1.S01E03.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E04
+http://198.255.50.74/Series/Papel1/Papel1.S01E04.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E05
+http://198.255.50.74/Series/Papel1/Papel1.S01E05.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E06
+http://198.255.50.74/Series/Papel1/Papel1.S01E06.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E07
+http://198.255.50.74/Series/Papel1/Papel1.S01E07.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E08
+http://198.255.50.74/Series/Papel1/Papel1.S01E08.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E09
+http://198.255.50.74/Series/Papel1/Papel1.S01E09.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E10
+http://198.255.50.74/Series/Papel1/Papel1.S01E10.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E11
+http://198.255.50.74/Series/Papel1/Papel1.S01E11.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E12
+http://198.255.50.74/Series/Papel1/Papel1.S01E12.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 1T-E13
+http://198.255.50.74/Series/Papel1/Papel1.S01E13.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 2T-E01
+http://198.255.50.74/Series/Papel2/Papel2.S02E01.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 2T-E02
+http://198.255.50.74/Series/Papel2/Papel2.S02E02.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 2T-E03
+http://198.255.50.74/Series/Papel2/Papel2.S02E03.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 2T-E04
+http://198.255.50.74/Series/Papel2/Papel2.S02E04.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 2T-E05
+http://198.255.50.74/Series/Papel2/Papel2.S02E05.mkv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/f2ZCXD2.jpg" group-title="La Casa de Papel", 2T-E06
+http://198.255.50.74/Series/Papel2/Papel2.S02E06.mkv
+
+################################################################################# Filmes On Demand
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8qkItOy.jpg" group-title="Filmes On Demand",Monella A Travessa (1998) LEG
+https://tinyurl.com/rvs6fte
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HjsEI0G.jpg" group-title="Filmes On Demand",Calígula (1979) LEG
+https://tinyurl.com/vca2erm
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1Fu3rMU.jpg" group-title="Filmes On Demand",Lúcia e o Sexo (2001) LEG
+https://tinyurl.com/vb592o4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GFJMXAj.jpg" group-title="Filmes On Demand",Love (2015) LEG
+https://tinyurl.com/vfx54vw
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MQLc9er.jpg" group-title="Filmes On Demand",Ninfomaníaca Volume 2 (2014) LEG
+https://tinyurl.com/un9juqd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pGKlgny.jpg" group-title="Filmes On Demand",Ninfomaníaca Volume 1 (2013) LEG
+https://tinyurl.com/udgu8rq
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HI6wv6S.jpg" group-title="Filmes On Demand",9 Canções (2004) LEG
+https://tinyurl.com/vxxnkko
+#EXTINF:-1 tvg-logo="http://i.imgur.com/44YZ6Dp.jpg" group-title="Filmes On Demand",Monamour (2006) LEG
+https://tinyurl.com/rfdxgql
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SkruTyj.jpg" group-title="Filmes On Demand",Shortbus (2006) LEG
+https://tinyurl.com/wtw5zmc
+
+################################################################################## Adultos + 18
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kbei9Ju.png" group-title="Adulto",Sex Prive
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adulto",Venus
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/8a71pse.png" group-title="Adulto",Hot
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/2uTdEk3.png" group-title="Adulto",Sex Zone
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="Adulto",Redlight
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adulto",Hustler
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/LpbTbG4.png" group-title="Adulto",Dorcel
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/j0igRZd.png" group-title="Adulto",Dusk
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cO2Ouk5.png" group-title="Adulto",Eroxxx
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="Adulto",Penthouse
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DevgPrx.png" group-title="Adulto",Passion XXX
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/hsphNnP.png" group-title="Adulto",Private
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/tSfnjXQ.png" group-title="Adulto",Jasmin.TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TzL6H2G.png" group-title="Adulto",Brazzers
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rpMAzgk.png" group-title="Adulto",XMuvi
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Pk11B3s.png" group-title="Adulto",Cento X Cento
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/ckNsCpi.png" group-title="Adulto",Pinko TV
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/p5ECi8k.png" group-title="Adulto",Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/oClkd1D.png" group-title="Adulto",Babestation
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",NYX Media 1
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",NYX Media 2
+https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Fetish
+http://live.redtraffic.xyz/fetish.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Interracial
+http://live.redtraffic.xyz/interracial.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Latina
+http://live.redtraffic.xyz/latina.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX MILF
+http://live.redtraffic.xyz/milf.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX POV
+http://live.redtraffic.xyz/pov.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Russian
+http://live.redtraffic.xyz/russian.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Teen
+http://live.redtraffic.xyz/teen.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX Threesome
+http://live.redtraffic.xyz/threesome.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX TRANS 1
+https://www.ast.tv/stream/1/cellular.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX TRANS 1 HD
+https://www.ast.tv/stream/1/high.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX TRANS 1 FHD
+https://www.ast.tv/stream/1/ultra.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX TRANS 2
+https://www.ast.tv/stream/2/cellular.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX TRANS 2 HD
+https://www.ast.tv/stream/2/high.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/IHWdGgv.png" group-title="Adulto",XXX TRANS 2 FHD
+https://www.ast.tv/stream/2/ultra.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################## Filmes Adultos
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pyjJfsM.jpg" group-title="Filmes Adultos",As Panteras - Incesto 7
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FmoUyWO.jpg" group-title="Filmes Adultos",Angel Lima fazendo dupla penetração
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K7gUgXr.jpg" group-title="Filmes Adultos",Ninfeta brasileira fodendo com vizinho
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/yGOBTZr.jpg" group-title="Filmes Adultos",Putinha sentando forte no pau grande do namorado
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405e83cc07459/21000/21437/21437_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmD4Z7Z.jpg" group-title="Filmes Adultos",Novinha amadora gostosa dando a xoxota
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/QArkW7D.jpg" group-title="Filmes Adultos",Amigas no hotel trepando
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GOsRBYA.jpg" group-title="Filmes Adultos",Morenaça rabuda fodendo no cassete grosso
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jLk6XN3.jpg" group-title="Filmes Adultos",Chupando a boceta grande
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hN4OBff.jpg" group-title="Filmes Adultos",Pâmela Pantera fodendo toda lambuzada de óleo
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OD686na.jpg" group-title="Filmes Adultos",Giovana Bombom fodendo cheia de tesão
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/FXk7xSA.jpg" group-title="Filmes Adultos",Manu Fox fodendo na cozinha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IIU3rps.jpg" group-title="Filmes Adultos",Comendo a mãe e a filha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/CcUOykN.jpg" group-title="Filmes Adultos",Dois paus no mesmo cu
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LYdoldz.jpg" group-title="Filmes Adultos",Sexo quente com uma morena safada
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pDoLiOi.jpg" group-title="Filmes Adultos",fodendo na banheira
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tIiSXMz.jpg" group-title="Filmes Adultos",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9fc60d8a025b57ddfad75bd4b4d494855ca8cb739d/18000/18952/18952_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jqxd67C.jpg" group-title="Filmes Adultos",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/z6r7x8N.jpg" group-title="Filmes Adultos",Loirinha brasileira no seu primeiro porno
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F5ICepd.jpg" group-title="Filmes Adultos",Pegou na praia e levou para o motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/A5Pnx5h.jpg" group-title="Filmes Adultos",Marido aquecendo para o negrão comer
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+
+################################################################################## Rádios
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Infantil
+http://192.99.150.31:8371/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Jazz
+http://192.99.150.31:8042/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Roberto Carlos
+http://192.99.150.31:9137/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Rap Nacional
+http://192.99.150.31:8377/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Jovem Guarda
+http://192.99.150.31:8801/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Hip Hop BR
+http://192.99.150.31:8721/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Funk Proibidão
+http://192.99.150.31:9089/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/U241Gsq.png" tvg-name=""radio=true,Rádio Disney FM
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/5rNlZDp.png" tvg-name=""radio=true,Rádio Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/qaPOhak.png" tvg-name=""radio=true,Rádio Estação Top FM
+http://198.255.106.154:13487/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/a9trwUi.png" tvg-name=""radio=true,Rádio Top FM
+http://cloud2.cdnseguro.com:23642/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/G2awxzZ.png" tvg-name=""radio=true,Coca-Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/3dgGC7H.png" tvg-name=""radio=true,Rádio CBN AM
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/O3eKMIz.png" tvg-name=""radio=true,Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/IQTBZHN.png" tvg-name=""radio=true,Rádio Mundial AM
+http://ice1.crossradio.com.br:8078/live.aac
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MFRkJq4.png" tvg-name=""radio=true,Rádio Nossa Rádio AM
+http://ice33a.crossradio.com.br:9236/live.aac
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/cYXgX4G.png" tvg-name=""radio=true,Rádio Trianon AM
+http://afiliadamix2.crossradio.com.br:9008/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/PCZ7T0T.png" tvg-name=""radio=true,Rádio Gazeta AM
+http://servidor1a.crossdigital.com.br:9552/1;?1508369510
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/iBUEpZO.jpg" tvg-name=""radio=true,Rádio Nacional Gospel AM
+http://184.107.161.115:9998/;stream.aac
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/xj4Lpvy.png" tvg-name=""radio=true,Rádio Cultura AM
+http://tvcultura.com.br/_radio/streaming.php?radio=am
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/k2CQ92m.png" tvg-name=""radio=true,Rádio Super RBV AM
+http://streamradio.boavontade.com/sp/live.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/He4nXDr.jpg" tvg-name=""radio=true,Rádio Bandeirantes AM
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/eXpfFoX.png" tvg-name=""radio=true,Rádio Mix FM
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/KX2Yeah.png" tvg-name=""radio=true,Rádio Metropolitana FM
+http://74.63.237.85:8598/live
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/JzHYtiE.png" tvg-name=""radio=true,Rádio Antena 1 FM
+http://antena1.newradio.it/stream?1519462006844
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/QszLLbD.png" tvg-name=""radio=true,Rádio Nova Brasil FM
+http://14013.live.streamtheworld.com/NOVABRASIL_SP_SC
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/GejcbCZ.png" tvg-name=""radio=true,Rádio Jovem Pan FM
+http://17523.live.streamtheworld.com/JP_SP_FM_SC
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/Bx8NjTk.png" tvg-name=""radio=true,Rádio Feliz FM
+http://felizfm.sateg.com.br:11520/stream/1/
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/fS5VWry.png" tvg-name=""radio=true,Rádio Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/wKH9DPI.png" tvg-name=""radio=true,Rádio News FM
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/SKWy80t.png" tvg-name=""radio=true,Rádio Nativa FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/EH1o61G.png" tvg-name=""radio=true,Rádio Band Vale FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/2Z7uuqP.png" tvg-name=""radio=true,Rádio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/VNdI6Wt.png" tvg-name=""radio=true,Rádio BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/TmycWPZ.png" tvg-name=""radio=true,Rádio Cachoeira AM
+http://centova.welltecnologia.com.br:8096/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/cvHzRir.png" tvg-name=""radio=true,Rádio Nova FM
+http://stm45.streamingbage.net.br:11454/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/55zvsZG.png" tvg-name=""radio=true,Rádio Clube Bagé AM
+http://stm7.streamingbage.net.br:16766/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/Ivdf27M.png" tvg-name=""radio=true,Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rMmdaYl.png" tvg-name=""radio=true,Rádio Esperança AM
+http://200.175.79.171:8000/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/6sLoNZn.png" tvg-name=""radio=true,Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/ClakDxW.png" tvg-name=""radio=true,Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/8U3B3Lw.png" tvg-name=""radio=true,Rádio Guaíba FM/AM
+http://15122g.ha.azioncdn.net/5122g/_definst_/guaiba.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/dT8ZOeg.png" tvg-name=""radio=true,Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/3ku6dPr.png" tvg-name=""radio=true,Rádio Band News FM
+http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/WZrYSBf.gif" tvg-name=""radio=true,Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MlwaApi.jpg" tvg-name=""radio=true,Rádio Gaúcha FM/AM
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/dZKe7DK.jpg" tvg-name=""radio=true,Rádio Bandeirantes FM/AM
+http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/jXGTFcR.png" tvg-name=""radio=true,Gr6 Explode FM
+http://173.236.30.162:8485/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/QhSS71Q.png" tvg-name=""radio=true,Rádio FM O Dia
+http://audio.bb07.upx.net.br:8058/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rV5HHXO.png" tvg-name=""radio=true,Rádio Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/NeJf46K.jpg" tvg-name=""radio=true,Rádio Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/x3j3rYJ.png" tvg-name=""radio=true,Rádio Mania FM
+http://radio.servercsi.com.br:8595/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/O9dknve.png" tvg-name=""radio=true,Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/oRYDaYf.png" tvg-name=""radio=true,Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/IGzepM4.png" tvg-name=""radio=true,Rádio 99.5 FM
+http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/LZk3Bt6.png" tvg-name=""radio=true,Rádio 104 FM
+http://noasrv.caster.fm:10127/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/TKZ90g5.png" tvg-name=""radio=true,Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/XtpLtUe.png" tvg-name=""radio=true,Rádio Pampa FM
+http://noasrv.caster.fm:10128/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/ttPklRN.png" tvg-name=""radio=true,Rádio Liberdade FM
+http://cast4.audiostream.com.br:8655/mp3
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/OC6JEfB.png" tvg-name=""radio=true,Rádio Continental FM
+http://noasrv.caster.fm:10126/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/C79VBmi.png" tvg-name=""radio=true,Rádio Caiçara FM/AM
+http://noasrv.caster.fm:10130/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/Vshg5E2.png" tvg-name=""radio=true,Rádio Capão FM
+http://noasrv.caster.fm:10131/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/UIqr0bU.png" tvg-name=""radio=true,Rádio Praia FM
+http://noasrv.caster.fm:10132/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/9Pu8H7t.png" tvg-name=""radio=true,Rádio Grenal FM
+http://noasrv.caster.fm:10115/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/rEXCYFB.png" tvg-name=""radio=true,Rádio Tramandaí FM
+http://noasrv.caster.fm:10133/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/n64bR7b.png" tvg-name=""radio=true,Rádio FM Premium
+http://noasrv.caster.fm:10125/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/piuWrsL.png" tvg-name=""radio=true,Rádio Xangri-lá FM
+http://noasrv.caster.fm:10137/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/I5y8DaH.png" tvg-name=""radio=true,Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/hC90L3k.png" tvg-name=""radio=true,Rádio Imbé FM
+http://noasrv.caster.fm:10135/stream
+
+######################################  Fm  ########################################
